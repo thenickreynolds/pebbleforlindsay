@@ -1,0 +1,24 @@
+{
+    "author": "tassieboy.nick@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "lindsay-s-birthday",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Lindsay's Birthday",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "58386f57-777a-43db-917b-faf6436a2028",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
