@@ -2,12 +2,12 @@
     "author": "tassieboy.nick@gmail.com",
     "dependencies": {},
     "keywords": [],
-    "name": "lindsay-s-birthday",
+    "name": "birthday",
     "pebble": {
         "capabilities": [
             ""
         ],
-        "displayName": "Lindsay's Birthday",
+        "displayName": "Birthday",
         "enableMultiJS": true,
         "messageKeys": [],
         "projectType": "native",
@@ -15,7 +15,12 @@
             "media": []
         },
         "sdkVersion": "3",
-        "uuid": "58386f57-777a-43db-917b-faf6436a2028",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "2931d316-4618-4f90-a37d-a7f8e9adc7a8",
         "watchapp": {
             "watchface": false
         }
